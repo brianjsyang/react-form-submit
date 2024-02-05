@@ -15,6 +15,9 @@ Simple form submit  single page application, utilizing state as much as possible
 - Created list of route definition under main.jsx
 - Making usage of loader and action eliminated the need for complex state management.
 - Layout format where some components are visible for all paths.
+- The nested routes allowed the separate URL with the modals displayed.
+
+![dynamic url](public/dynamic_domain.png)
 
 ```jsx
 const router = createBrowserRouter([
