@@ -1,4 +1,4 @@
-(public/homepage.png)
+![homepage screenshot](public/homepage.png)
 
 # React Form Submit
 
